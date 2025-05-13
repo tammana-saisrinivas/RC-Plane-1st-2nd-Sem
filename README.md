@@ -75,6 +75,6 @@ These projects were crucial in shaping my foundational understanding of aircraft
 ---
 
 ## 🔗 Let's Connect
-- **Portfolio Website:** [your-portfolio-link]
-- **LinkedIn:** [your-linkedin]
-- **Email:** [your-email]
+- **Portfolio Website:** []
+- **LinkedIn:** []
+- **Email:** []
