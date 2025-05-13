@@ -34,7 +34,7 @@ Welcome to my RC Plane project collection! As an Aeronautical Engineering studen
   Led a team of students in fabricating an RC plane as per provided specifications. Managed the fabrication process, handled control system integration, and planned flight strategy. This experience gave me a deeper understanding of team dynamics, optimization under constraints, and real-time flight evaluation.
 
 - **📷 Media:**  
-  ![plane3](./Plane-3_Competition/Photos/plane3.jpg)
+  ![plane3](ca46e5aea0ace5adf7e333828ea6c47345035089)
 
 - **🔍 Key Learnings:**
   - Leadership and task delegation
