@@ -34,7 +34,7 @@ Welcome to my RC Plane project collection! As an Aeronautical Engineering studen
   Led a team of students in fabricating an RC plane as per provided specifications. Managed the fabrication process, handled control system integration, and planned flight strategy. This experience gave me a deeper understanding of team dynamics, optimization under constraints, and real-time flight evaluation.
 
 - **📷 Media:**  
-  ![plane3](Aerotron 3.0/Aerotron Pics/WhatsApp Image 2025-05-11 at 13.21.34.jpeg)
+  ![plane2](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Aerotron%203.0/Aerotron%20Pics/WhatsApp%20Image%202025-05-11%20at%2013.21.34.jpeg)
 
 - **🔍 Key Learnings:**
   - Leadership and task delegation
@@ -52,7 +52,7 @@ Welcome to my RC Plane project collection! As an Aeronautical Engineering studen
   A timed and competitive workshop where teams fabricated and flew an RC plane. Despite given constraints, we optimized the control surfaces and weight distribution for better stability.
 
 - **📷 Media:**  
-  ![plane2](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Aerotron%203.0/Aerotron%20Pics/WhatsApp%20Image%202025-05-11%20at%2013.21.34.jpeg)
+  ![plane3](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Aerotron%203.0/Aerotron%20Pics/WhatsApp%20Image%202025-05-11%20at%2013.21.34.jpeg)
 
 - **🔍 Key Learnings:**
   - Effective team coordination
