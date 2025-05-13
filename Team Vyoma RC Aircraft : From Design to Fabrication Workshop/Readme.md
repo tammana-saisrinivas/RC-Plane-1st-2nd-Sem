@@ -9,7 +9,7 @@ This was a timed competitive workshop where we fabricated and flew an RC plane. 
 
 ## 🔍 Materials Used:
 - Depron Sheets
-- Basic servos
+- Servos and ESC
 
 ## 🛠️ Skills Developed:
 - Rapid prototyping under pressure
