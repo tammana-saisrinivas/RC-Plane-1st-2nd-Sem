@@ -52,7 +52,7 @@ Welcome to my RC Plane project collection! As an Aeronautical Engineering studen
   A timed and competitive workshop where teams fabricated and flew an RC plane. Despite given constraints, we optimized the control surfaces and weight distribution for better stability.
 
 - **📷 Media:**  
-  ![plane3](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Aerotron%203.0/Aerotron%20Pics/WhatsApp%20Image%202025-05-11%20at%2013.21.34.jpeg)
+  ![plane3](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Team%20Vyoma%20RC%20Aircraft%20%3A%20From%20Design%20to%20Fabrication%20Workshop/WhatsApp%20Image%202025-05-11%20at%2013.19.29.jpeg)
 
 - **🔍 Key Learnings:**
   - Effective team coordination
