@@ -9,7 +9,7 @@ This was a beginner-level RC workshop where I learned the fundamentals of aircra
 
 ## 🔍 Materials Used:
 - Chloroplast Sheets
-- Basic Servos
+- Servos and ESCs
 
 ## 🛠️ Skills Developed:
 - Basic aircraft structure design
