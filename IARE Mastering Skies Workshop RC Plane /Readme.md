@@ -8,7 +8,7 @@
 This was a beginner-level RC workshop where I learned the fundamentals of aircraft construction. My task involved cutting foam, balancing the center of gravity (CG), and installing control surfaces and servos.
 
 ## 🔍 Materials Used:
-- Foam Sheets
+- Chloroplast Sheets
 - Basic Servos
 
 ## 🛠️ Skills Developed:
