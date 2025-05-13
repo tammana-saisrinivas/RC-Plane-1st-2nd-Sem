@@ -19,5 +19,5 @@ I led a team in the design and fabrication of an RC plane for a competition. We 
 - Real-world flying conditions
 
 ## 📷 Media:
-![plane3](./Photos/plane3.jpg)
+![plane3](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/Aerotron%203.0/Aerotron%20Pics/WhatsApp%20Image%202025-05-11%20at%2013.20.40.jpeg)
 
