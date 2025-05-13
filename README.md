@@ -16,7 +16,7 @@ Welcome to my RC Plane project collection! As an Aeronautical Engineering studen
   Participated in a beginner-level RC workshop to understand the fundamentals of aircraft construction. The design was provided, and I worked on foam cutting, CG balancing, and servo installation.
 
 - **📷 Media:**  
-  ![plane1](.https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/IARE%20Mastering%20Skies%20Workshop%20RC%20Plane/WhatsApp%20Image%202025-05-13%20at%2019.46.35.jpeg)
+  ![plane1](https://raw.githubusercontent.com/tammana-saisrinivas/RC-Plane-1st-2nd-Sem/main/WhatsApp%20Image%202025-05-13%20at%2019.46.35.jpeg)
 
 - **🔍 Key Learnings:**
   - Basics of aircraft structure
